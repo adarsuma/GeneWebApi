@@ -65,7 +65,6 @@ C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\bin\ko\System.S
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\bin\ru\System.Spatial.resources.dll
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\obj\Debug\GeneWeb.csprojResolveAssemblyReference.cache
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\obj\Debug\GeneWeb.dll
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\obj\Debug\GeneWeb.pdb
 C:\Users\adarsuma\Downloads\adarsuma\Coding\Gene\GeneWeb\GeneWeb\bin\EntityFramework.SqlServer.dll
